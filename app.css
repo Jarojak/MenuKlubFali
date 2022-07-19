@@ -58,7 +58,14 @@ body{
 .menu-main{
 	display: flex;
 	flex-direction: column;
+}
+
+.menu.m001{
 	border-right: 5px dashed #4DC1BB;
+}
+
+.menu.m002{
+	border-right: 5px solid #4DC1BB;
 }
 
 .category{
@@ -101,7 +108,6 @@ body{
 	text-align: right;
 	font-weight: 300;
 }
-
 .category-header.c-h003{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 900;
@@ -238,4 +244,3 @@ body{
 .item-description.info{
 	flex-basis: 100%;
 }
-
