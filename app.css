@@ -125,6 +125,27 @@ body{
 	flex-grow: 10;
 }
 
+.item-redbull-pic{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-end;
+	max-width: 400px;
+}
+
+.items-nextto-pic{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+}
+
+.redbull-img{
+	width: 35%;
+	height: auto;
+	margin-right: 30px;
+	margin-bottom: 20px;
+}
+
 .item{
 	display: flex;
 	flex-direction: row;
