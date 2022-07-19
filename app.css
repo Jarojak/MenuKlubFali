@@ -67,6 +67,24 @@ body{
 	font-size: 96px;
 }
 
+.category-header.c-h002{
+	display: flex;
+	align-items: stretch;
+	font-size: 58px;
+	font-family: 'Lato', sans-serif;
+	flex-grow: 1;
+}
+
+.category-header.c-h002 .p1{
+	font-weight: 900;
+	margin-right: 5px;
+}
+
+.category-header.c-h002 .p2{
+	text-align: right;
+	font-weight: 300;
+}
+
 .item{
 	display: flex;
 	flex-direction: row;
