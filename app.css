@@ -135,6 +135,13 @@ body{
 	flex-grow: 10;
 }
 
+.category-header.c-h005{
+	font-family: 'Ultra', serif;
+	font-size: 48px;
+	width: 100%;
+	text-align: center;
+}
+
 .item-redbull-pic{
 	display: flex;
 	flex-direction: row;
