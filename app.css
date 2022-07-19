@@ -170,6 +170,13 @@ body{
 	background-color: #4DC1BB;
 }
 
+.category-header.c-h008{
+	font-family: 'Kanit', sans-serif;
+	font-size: 48px;
+	letter-spacing: 12px;
+	width: 100%;
+	text-align: center;
+}
 
 .item-redbull-pic{
 	display: flex;
@@ -226,5 +233,9 @@ body{
 	text-align: right;
 	font-weight: 700;
 	flex-grow: 1;
+}
+
+.item-description.info{
+	flex-basis: 100%;
 }
 
