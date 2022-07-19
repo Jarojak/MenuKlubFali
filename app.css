@@ -102,6 +102,24 @@ body{
 	vertical-align:top;
 }
 
+.category-header.c-h004{
+	display: flex;
+	align-items: center;
+	flex-grow: 1;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 48px;
+}
+
+.category-header.c-h004 .p1{
+	padding: 0 10px;
+}
+
+.category-header.c-h004 .color-fill{
+	background-color: #4DC1BB;
+	height: 32px;
+	flex-grow: 10;
+}
+
 .item{
 	display: flex;
 	flex-direction: row;
