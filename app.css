@@ -161,6 +161,16 @@ body{
 	height: 32px;
 }
 
+.category-header.c-h007{
+	font-family: 'Sarpanch', sans-serif;
+	font-size: 48px;
+	width: 100%;
+	text-align: center;
+	color: rgb(255, 252, 247);
+	background-color: #4DC1BB;
+}
+
+
 .item-redbull-pic{
 	display: flex;
 	flex-direction: row;
