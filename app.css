@@ -113,6 +113,9 @@ body{
 	flex-grow: 1;
 	font-family: 'Work Sans', sans-serif;
 	font-size: 48px;
+	width: calc(100% + 20px);
+  	position: relative;
+  	left: -10px;
 }
 
 .category-header.c-h004 .p1{
